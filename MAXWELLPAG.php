@@ -27,7 +27,7 @@
    <footer>
    <ul class="contacts_list">
      <li>
-	   <a href="mailto:maxwellaugustomb@hotmail">maxwellaugustomb@hotmail</a>
+	   <a href="mailto:maxwellaugustomb@hotmail.com">maxwellaugustomb@hotmail.com</a>
 	 </li>
 	 <li>
 	   <a href="https://www.linkedin.com/in/maxwell-augusto/" target="_blank">Linkedin</a>
